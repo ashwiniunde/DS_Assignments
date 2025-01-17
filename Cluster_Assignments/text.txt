@@ -1,0 +1,4 @@
+Clustering: 
+--Clustering is an unsupervised machine learning technique designed to group unlabeled examples based on their similarity to each other. (If the examples are labeled, this kind of grouping is called classification.)
+--The process of making a group of abstract objects into classes of similar objects is known as clustering
+--to form a group, sometimes by surrounding something or someone, or to make something do this:
